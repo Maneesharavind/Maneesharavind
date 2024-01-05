@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maneesh Aravind
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning Java Programing
 - 💞️ I’m looking to collaborate on  designing
 - 📫 You can  reach me by my mail id
 
